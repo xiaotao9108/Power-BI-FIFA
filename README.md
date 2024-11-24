@@ -10,7 +10,7 @@ This dashboard provides an overview of FIFA 2015, featuring data on the number o
 
 * Key Tools Used: Cards, tables.
 
-  ![A snapshot of the 'League' dashboard](C:/Users/18144/OneDrive/Desktop/SAS/Project/Power BI -- Project202203/output1.png)
+
 
 ## Physical Dashboard
 This dashboard explores the relationships between player positions, physical attributes (age, height, and weight), and potential across leagues and clubs. Notably, the CF (Center Forward) position exhibits the highest overall score and potential.
