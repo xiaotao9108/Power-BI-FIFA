@@ -10,7 +10,7 @@ This dashboard provides an overview of FIFA 2015, featuring data on the number o
 
 * Key Tools Used: Cards, tables.
 
-![League Dashboard](images/League.png)
+![League Dashboard](images/League.PNG)
 
 
 ## Physical Dashboard
@@ -18,7 +18,7 @@ This dashboard explores the relationships between player positions, physical att
 
 * Key Tools Used: Tables, cards, scatter plots, and slicers.
 
-![Physical Dashboard](images/Physical.png)
+![Physical Dashboard](images/Physical.PNG)
 
 ## Performance Dashboard
 A drill-down dashboard focusing on individual player skills, such as defending and passing. Users can navigate through five buttons named after key technique categories (e.g., "Attack"), which display pie charts showcasing their sub-skills, such as volleys, crossing, short passing, heading accuracy, and finishing.
@@ -29,6 +29,6 @@ Interactive Features:
 * A comparison table on the right to benchmark the selected club's performance against the top N (up to 10) clubs.
 These features help users evaluate and compare football skills effectively, enabling data-driven decision-making for player positioning and performance analysis.
 
-![Performance Dashboard](images/Performance.png)
+![Performance Dashboard](images/Performance.PNG)
 
-![Performance-button Dashboard](images/Performance-button.png)
+![Performance-button Dashboard](images/Performance-button.PNG)
