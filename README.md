@@ -10,12 +10,15 @@ This dashboard provides an overview of FIFA 2015, featuring data on the number o
 
 * Key Tools Used: Cards, tables.
 
+![League Dashboard](images/League.png)
 
 
 ## Physical Dashboard
 This dashboard explores the relationships between player positions, physical attributes (age, height, and weight), and potential across leagues and clubs. Notably, the CF (Center Forward) position exhibits the highest overall score and potential.
 
 * Key Tools Used: Tables, cards, scatter plots, and slicers.
+
+![Physical Dashboard](images/Physical.png)
 
 ## Performance Dashboard
 A drill-down dashboard focusing on individual player skills, such as defending and passing. Users can navigate through five buttons named after key technique categories (e.g., "Attack"), which display pie charts showcasing their sub-skills, such as volleys, crossing, short passing, heading accuracy, and finishing.
@@ -25,3 +28,7 @@ Interactive Features:
 * A dropdown list to filter by leagues and clubs.
 * A comparison table on the right to benchmark the selected club's performance against the top N (up to 10) clubs.
 These features help users evaluate and compare football skills effectively, enabling data-driven decision-making for player positioning and performance analysis.
+
+![Performance Dashboard](images/Performance.png)
+
+![Performance-button Dashboard](images/Performance-button.png)
